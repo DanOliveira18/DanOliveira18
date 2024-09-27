@@ -1,3 +1,1 @@
-# Hi there, Im Dan 👋
-
-## About me
+## Hi there, Im Dan 👋
