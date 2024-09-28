@@ -14,5 +14,5 @@
 
 # Socials 🤝
 [Linkedin](https://www.linkedin.com/in/danieloschagas/)  
-[instagram](https://www.instagram.com/danoliveira.dev/)
+[instagram](https://www.instagram.com/danoliveira.dev/)  
 [danoliveira.dev](https://danoliveira.dev)  
